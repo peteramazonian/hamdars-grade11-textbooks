@@ -1,0 +1,471 @@
+{
+  "grade": 11,
+  "catalog_year": "1405-1406",
+  "books": [
+    {
+      "book_code": "C110222",
+      "title": "هنر",
+      "branches": [
+        "math",
+        "science",
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C110222/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14263",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C110222.pdf",
+      "source_sha256": "9a44004beda80f9d4143cc36893a9e413f8dfc75cf532094e1e132543e340525",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111201",
+      "title": "فارسی (2)",
+      "branches": [
+        "math",
+        "science",
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111201/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14316",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111201.pdf",
+      "source_sha256": "81eeedb66da7d35423c2dda096b6c9f9cd4a730cbc4c6bef50363057cefb143f",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111202",
+      "title": "نگارش (2)",
+      "branches": [
+        "math",
+        "science",
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111202/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14317",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111202.pdf",
+      "source_sha256": "92bc3f3f16a5d205861824dfb2b4391920ac4ccab751a88de0b5e9104ee4f50a",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111204",
+      "title": "دین و زندگی (2)",
+      "branches": [
+        "math",
+        "science"
+      ],
+      "manifest": "books/C111204/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14319",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C111204.pdf",
+      "source_sha256": "77d162328373f92f31fc3cb335685d075372259debd4a52bbca8d7c9ffa36641",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111206",
+      "title": "عربی، زبان قرآن (2)",
+      "branches": [
+        "math",
+        "science"
+      ],
+      "manifest": "books/C111206/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14320",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111206.pdf",
+      "source_sha256": "1a26ad980eaea0f70adff748a3a9588ba8af0df19da5456f957206a759a3d48f",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111209",
+      "title": "فیزیک (2)",
+      "branches": [
+        "math"
+      ],
+      "manifest": "books/C111209/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14318",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111209.pdf",
+      "source_sha256": "021e17e9a27c93f8b67daf9e9156c85defd9ffb1833db047f1644fdae9ae1022",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111210",
+      "title": "شیمی (2)",
+      "branches": [
+        "math",
+        "science"
+      ],
+      "manifest": "books/C111210/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14321",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111210.pdf",
+      "source_sha256": "c7e35f67ae84d6dedeeefbe3efb77881d39a7620b0e6fc12eeb28358f469f257",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111213",
+      "title": "هندسه (2)",
+      "branches": [
+        "math"
+      ],
+      "manifest": "books/C111213/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14322",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111213.pdf",
+      "source_sha256": "2bf760bf2263662b8f1426652c33e53531052e36d84fbb3023fe5aa5e150e421",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111214",
+      "title": "حسابان (1)",
+      "branches": [
+        "math"
+      ],
+      "manifest": "books/C111214/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14323",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111214.pdf",
+      "source_sha256": "90df61785a842f60bd2291c7c0c35d2d35b494843ec66fceab474da980337678",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111215",
+      "title": "آمار و احتمال",
+      "branches": [
+        "math"
+      ],
+      "manifest": "books/C111215/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14324",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111215.pdf",
+      "source_sha256": "003b007f79a49bacefbd9b7eaa5ef7063ca7a66ed6d73707349cd8e5256bf424",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111217",
+      "title": "آزمایشگاه علوم تجربی (2)",
+      "branches": [
+        "math",
+        "science"
+      ],
+      "manifest": "books/C111217/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14325",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111217.pdf",
+      "source_sha256": "d5fff5af894379edb3dabdb2b3bfb03ae53a9564752be6019f45e42786c282b5",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111220",
+      "title": "تاریخ معاصر ایران",
+      "branches": [
+        "math",
+        "science"
+      ],
+      "manifest": "books/C111220/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14975",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C111220.pdf",
+      "source_sha256": "9f2f8665a6b4e7a84afc08f93e25093e890d5d83ee97c1a1a446279b7755c810",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111228",
+      "title": "تعلیمات ادیان الهی و اخلاق (2) ـ ویژه اقلیت های دینی",
+      "branches": [
+        "math",
+        "science",
+        "humanities"
+      ],
+      "manifest": "books/C111228/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14326",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C111228.pdf",
+      "source_sha256": "fed01e48f1da050b7d16f5c26bb25133d2ec1b459f547ac508e2be7cd765f68a",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111230",
+      "title": "انگلیسی (2)",
+      "branches": [
+        "math",
+        "science",
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111230/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14327",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111230.pdf",
+      "source_sha256": "218f4ff6867cfff1f592ecb09dde853cdc9d09fb8bb6ac099048dfedeb92cec4",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111237",
+      "title": "زمین شناسی",
+      "branches": [
+        "math",
+        "science"
+      ],
+      "manifest": "books/C111237/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14332",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111237.pdf",
+      "source_sha256": "d3933fd129e01b66c3ab681b1c849175fc6202f59a2fd87eb436522cb8182f54",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111238",
+      "title": "ضمیمه دین و زندگی (2) - ویژه اهل سنت",
+      "branches": [
+        "math",
+        "science",
+        "humanities"
+      ],
+      "manifest": "books/C111238/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14328",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111238.pdf",
+      "source_sha256": "fc239d5b9fc5d5c256a20ee2ba0d66546b96ad4fae9cbf96207d2effbb01ec7f",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111268",
+      "title": "انسان و محیط زیست",
+      "branches": [
+        "math",
+        "science",
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111268/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14329",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C111268.pdf",
+      "source_sha256": "3ae7482cea41a58de0c9238708b08b0de3c92bffbc7338f1caf60539f63ff16f",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111211",
+      "title": "ریاضی (2)",
+      "branches": [
+        "science"
+      ],
+      "manifest": "books/C111211/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14330",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111211.pdf",
+      "source_sha256": "e5c287975ff848a499fc75ed4889120b1cd6aac6b9feb6357e083da3919185b1",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111216",
+      "title": "زیست شناسی (2)",
+      "branches": [
+        "science"
+      ],
+      "manifest": "books/C111216/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14331",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf",
+      "source_sha256": "ea24ce40ecafd3f5dbdad5ac0e46984c8fe8d43dab33226bd09bda5c03b3262b",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111244",
+      "title": "فیزیک (2)",
+      "branches": [
+        "science"
+      ],
+      "manifest": "books/C111244/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14333",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111244.pdf",
+      "source_sha256": "2fbda9ed4bdedb20ee3182e39e0eb39c15f908770cd7de56fff3d91a6160aac4",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111203",
+      "title": "علوم و فنون ادبی (2)",
+      "branches": [
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111203/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14334",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111203.pdf",
+      "source_sha256": "2153a6cab9cb0b238a6d3ecfbc5203f30f0bd1ef8cdff1808e9aab415128fdbb",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111205",
+      "title": "دین و زندگی (2)",
+      "branches": [
+        "humanities"
+      ],
+      "manifest": "books/C111205/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14335",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111205.pdf",
+      "source_sha256": "47346ddd2772aa513717ec8de94587977b367f03782488ce878eb201a141ea24",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111207",
+      "title": "عربی، زبان قرآن (2)",
+      "branches": [
+        "humanities"
+      ],
+      "manifest": "books/C111207/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14336",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111207.pdf",
+      "source_sha256": "0331fe427cbdf06478e95167fccf3788383b4045f0f2060f85dbe3d8d5d278d4",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111212",
+      "title": "ریاضی و آمار (2)",
+      "branches": [
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111212/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14337",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111212.pdf",
+      "source_sha256": "7fbd04e832f5b4d63349969e0bea2b63d01d0a1efdeed9531fb66baeaf02f0a7",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111218",
+      "title": "جغرافیای (2) ـ جغرافیای ناحیه ای",
+      "branches": [
+        "humanities"
+      ],
+      "manifest": "books/C111218/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14348",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111218.pdf",
+      "source_sha256": "dd3f33d6cf9f352d539f55293fa95f03c552d45fb88c33b07573d29e5393e4b4",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111219",
+      "title": "تاریخ (2)",
+      "branches": [
+        "humanities"
+      ],
+      "manifest": "books/C111219/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14338",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111219.pdf",
+      "source_sha256": "251e1ab465bfbc520a17977b7797994b17e3915d8e826d9d55a20941b0481085",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111222",
+      "title": "جامعه شناسی (2)",
+      "branches": [
+        "humanities"
+      ],
+      "manifest": "books/C111222/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14339",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111222.pdf",
+      "source_sha256": "4a7fb8365c9c9b9d978ceb6e23282c9323c5a80b9727622e27bcd32d306c521e",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111224",
+      "title": "روان شناسی",
+      "branches": [
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111224/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14340",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111224.pdf",
+      "source_sha256": "2fdc4b202795f9a8f6d4a3c53db50e38034c1e8133b42b52bfa9c2f8c780e9da",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111226",
+      "title": "فلسفه (1)",
+      "branches": [
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111226/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14341",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111226.pdf",
+      "source_sha256": "f8c6c56bb1bb9dd277e2e129a4ba344109b614fecc7738e4ce7aeed4e26999bb",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111208",
+      "title": "عربی، زبان قرآن (2)",
+      "branches": [
+        "islamic"
+      ],
+      "manifest": "books/C111208/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14342",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111208.pdf",
+      "source_sha256": "01945bf86bf94f34e8549a495b5ee9bf2f2c1a8bc527a84db722e719ef130d4d",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111227",
+      "title": "احکام (2)",
+      "branches": [
+        "islamic"
+      ],
+      "manifest": "books/C111227/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14343",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111227.pdf",
+      "source_sha256": "7731a39303176d8d661a31cdcd93bf8642de27b342bd76fc3f3dc75e1406fbdd",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111232",
+      "title": "اصول و عقاید (2)",
+      "branches": [
+        "islamic"
+      ],
+      "manifest": "books/C111232/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14344",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111232.pdf",
+      "source_sha256": "9de2de0a17e12c3fa216652f4b9661fc334b1b52ce50ffd0309d0c6f2cbe8925",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111233",
+      "title": "تاریخ اسلام (2)",
+      "branches": [
+        "islamic"
+      ],
+      "manifest": "books/C111233/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14976",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111233.pdf",
+      "source_sha256": "a2bd58435f30704f29307f088784954130fc580202f00fc1ce6db9cd60323831",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111234",
+      "title": "علوم و معارف قرآنی (2)",
+      "branches": [
+        "islamic"
+      ],
+      "manifest": "books/C111234/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14345",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111234.pdf",
+      "source_sha256": "b58334e971c75dd71826cbc821da352e18427bf4ab7fc4064ef82346487dcaa1",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111235",
+      "title": "اخلاق اسلامی (2)",
+      "branches": [
+        "islamic"
+      ],
+      "manifest": "books/C111235/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14346",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111235.pdf",
+      "source_sha256": "354f6585e2b05466e8fe0c28c057654d86a38099e0622f686c81244a26b996e4",
+      "attachment_year": "1405-1406"
+    },
+    {
+      "book_code": "C111231",
+      "title": "کتاب کار انگلیسی (2)",
+      "branches": [
+        "math",
+        "science",
+        "humanities",
+        "islamic"
+      ],
+      "manifest": "books/C111231/manifest.json",
+      "official_record": "http://chap.sch.ir/books/14349",
+      "official_pdf": "http://chap.sch.ir/sites/default/files/lbooks/1404-1405/44/C111231_0.pdf",
+      "source_sha256": "785ad8f0139c151e71c1e2678d208c2d666722d8b72887cb47a9466d5b306ead",
+      "attachment_year": "1404-1405",
+      "source_note": "Current 1405-1406 grade 11 search result points to this older 1404-1405 attachment; no current-year attachment was exposed on the official record."
+    }
+  ]
+}
